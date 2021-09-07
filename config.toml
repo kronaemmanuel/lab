@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://lab.kronaemmanuel.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Krona Emmanuel Lab"
 
 # Navigation Menu
 [menu]
